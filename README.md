@@ -2,13 +2,13 @@
 
 
 
-**OBSERVAÇÃO
+*OBSERVAÇÃO
 1) Notei que na requisição: https://sample-api-78c77.firebaseio.com/episodes/SHOW123.json
 não vem os episodios de TODAS as temporadas.
 
 Deixei somente a primeira primeira temporada de acordo com o Front
 
-2)Notei  também que na requisição: https://sample-api-78c77.firebaseio.com/episodes/SHOW123.json
+2) Notei  também que na requisição: https://sample-api-78c77.firebaseio.com/episodes/SHOW123.json
 não vem o personagem, somente o autor.
 
 
